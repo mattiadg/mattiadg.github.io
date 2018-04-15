@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Deep in Translation"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Mattia Di Gangi"
 description              : &description "personal description"

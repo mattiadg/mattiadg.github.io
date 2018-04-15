@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-04-15T11:22:37+01:00</updated><id>/</id><title>Deep in Translation</title><subtitle>personal description</subtitle><author><name>Mattia Di Gangi</name><email>mattiadigangi@gmail.com</email></author><entry><title>My first technical post</title><link href="/try/" rel="alternate" type="text/html" title="My first technical post" /><published>2018-01-11T00:00:00+00:00</published><updated>2018-01-11T00:00:00+00:00</updated><id>/try</id><content type="html" xml:base="/try/">&lt;p&gt;This is just to see if it works&lt;/p&gt;</content><author><name>Mattia Di Gangi</name><email>mattiadigangi@gmail.com</email></author><summary>This is just to see if it works</summary></entry><entry><title>Let’s begin</title><link href="/Let-s-begin/" rel="alternate" type="text/html" title="Let&#39;s begin" /><published>2016-11-01T00:00:00+01:00</published><updated>2016-11-01T00:00:00+01:00</updated><id>/Let-s-begin</id><content type="html" xml:base="/Let-s-begin/">&lt;p&gt;Last wednesday I defended my master thesis and finally concluded my path at University of Palermo.
+Now, it’s time to begin a new and totally different experience by beginning my PhD at University of Trento and FBK (Bruno Kessler Foundation),
+ for which I’ll leave in two days. 
+I’m going to study Deep Learning for Machine Translation, a really interesting topic for which there has been an explosion of papers in the last three
+years, and it didn’t even exist before 2014. 
+I wanted to share my excitement with everybody and I promise, the next post will be technical and will bring some novelties in the blog.
+See you soon!&lt;/p&gt;</content><author><name>Mattia Di Gangi</name><email>mattiadigangi@gmail.com</email></author><summary>Last wednesday I defended my master thesis and finally concluded my path at University of Palermo.
+Now, it’s time to begin a new and totally different experience by beginning my PhD at University of Trento and FBK (Bruno Kessler Foundation),
+ for which I’ll leave in two days. 
+I’m going to study Deep Learning for Machine Translation, a really interesting topic for which there has been an explosion of papers in the last three
+years, and it didn’t even exist before 2014. 
+I wanted to share my excitement with everybody and I promise, the next post will be technical and will bring some novelties in the blog.
+See you soon!</summary></entry><entry><title>Repeat, repeat, repeat…</title><link href="/repeat-repeat-repeat/" rel="alternate" type="text/html" title="Repeat, repeat, repeat..." /><published>2016-10-24T00:00:00+01:00</published><updated>2016-10-24T00:00:00+01:00</updated><id>/repeat-repeat-repeat</id><content type="html" xml:base="/repeat-repeat-repeat/">&lt;p&gt;These days I’m preparing for my Master degree thesis defence. The time is
+too short and there’s no space for wasting words.
+In order to perform well, repetitions and pauses must be well balanced.
+There is a need knowing exactly what you need to say, while showing that
+you’re really thinking about what you say and not repeating like a parrot.
+That would bore the audience, and that’s not what you expect with a thesis
+regarding sarcasm detection.
+I’m still working on it.&lt;/p&gt;</content><author><name>Mattia Di Gangi</name><email>mattiadigangi@gmail.com</email></author><summary>These days I’m preparing for my Master degree thesis defence. The time is
+too short and there’s no space for wasting words.
+In order to perform well, repetitions and pauses must be well balanced.
+There is a need knowing exactly what you need to say, while showing that
+you’re really thinking about what you say and not repeating like a parrot.
+That would bore the audience, and that’s not what you expect with a thesis
+regarding sarcasm detection.
+I’m still working on it.</summary></entry><entry><title>My first blog post</title><link href="/mattiadg-blog-launched/" rel="alternate" type="text/html" title="My first blog post" /><published>2016-10-23T00:00:00+01:00</published><updated>2016-10-23T00:00:00+01:00</updated><id>/mattiadg-blog-launched</id><content type="html" xml:base="/mattiadg-blog-launched/">&lt;p&gt;Hey everybody, I’m Mattia from Palermo, Italy. I’m finishing my studies in Computer Science and now I’m trying to become active in
+the OSS community. I made large use of open source software but I never found the time (my fault) to give my contribution to some project.
+My first occasion to move on was the discovery of this year’s hacktoberfest, thanks to which I did my first pull request.
+After that some others pull request arrived one after another and now I want to become an active participant in the OSS community, at 
+least for what I can do.
+This short blog post represents my second step in this direction, after the hacktoberfest, and a commit to force me to continue this way.&lt;/p&gt;
+
+&lt;p&gt;I hope I can be helpful for someone.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned!&lt;/p&gt;</content><author><name>Mattia Di Gangi</name><email>mattiadigangi@gmail.com</email></author><summary>Hey everybody, I’m Mattia from Palermo, Italy. I’m finishing my studies in Computer Science and now I’m trying to become active in
+the OSS community. I made large use of open source software but I never found the time (my fault) to give my contribution to some project.
+My first occasion to move on was the discovery of this year’s hacktoberfest, thanks to which I did my first pull request.
+After that some others pull request arrived one after another and now I want to become an active participant in the OSS community, at 
+least for what I can do.
+This short blog post represents my second step in this direction, after the hacktoberfest, and a commit to force me to continue this way.</summary></entry></feed>

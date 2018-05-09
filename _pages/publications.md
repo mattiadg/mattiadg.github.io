@@ -14,7 +14,19 @@ You can also find my articles (with full texts!) on my <u><a href="{{ author.goo
 or <u><a href="{{ author.researchgate }}"> ResearchGate</a></u> profiles.
 
 Di Gangi, Mattia Antonino; Federico, Marcello.  
-*Monolingual Embeddings for Low Resourced Neural Machine Translation*
+*Deep Neural Machine Translation with Weakly-Recurrent Units*  
+Proceedings of the 21st Conference of the European Association of Machine Translation (EAMT),Alicante, Spain. 2018 (To appear)  
+
+Ataman, Duygu; Di Gangi, Mattia Antonino; Federico, Marcello.  
+*Compositional Source Word Representations for Neural Machine Translation*  
+Proceedings of the 21st Conference of the European Association of Machine Translation (EAMT),Alicante, Spain. 2018 (To appear)
+
+Di Gangi, Mattia Antonino; Lo Bosco, Giosuè; and Rizzo, Riccardo  
+*Deep Learning Architectures for prediction of nucleosome positioning from sequences data.*  
+BMC-Bioinformatics (To appear)
+
+Di Gangi, Mattia Antonino; Federico, Marcello.  
+*Monolingual Embeddings for Low Resourced Neural Machine Translation*  
 Proceedings of IWSLT, Tokyo, Japan. 2017
 
 Di Gangi, Mattia A; Federico, Marcello.  

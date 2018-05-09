@@ -100,9 +100,17 @@ EUSFLAT , Como, Italy
 
 PUBLICATIONS
 ======
+> Di Gangi, Mattia Antonino; Federico, Marcello.  
+“Deep Neural Machine Translation with Weakly-Recurrent Units”  
+Proceedings of the 21st Conference of the European Association of Machine Translation (EAMT),Alicante, Spain. 2018 (To appear)
+
+> Ataman, Duygu; Di Gangi, Mattia Antonino; Federico, Marcello.  
+“Compositional Source Word Representations for Neural Machine Translation”  
+Proceedings of the 21st Conference of the European Association of Machine Translation (EAMT),Alicante, Spain. 2018 (To appear)
+
 > Di Gangi, M. A., Lo Bosco, G., and Rizzo, R. 
 “Deep Learning Architectures for prediction of nucleosome positioning from sequences data”.  
-Special issue BMC Bioinformatics journal (Accept after discretionary revisions).
+Special issue BMC Bioinformatics journal (To appear).
 
 > Di Gangi, M. A., Federico M.  
 “Monolingual Embeddings for Low Resourced Neural Machine Translation”.  

@@ -10,7 +10,7 @@ author_profile: true
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-You can also find my articles (with full texts!) on my <u><a href="{{ author.googlescholar }}" > Google Scholar</a></u> 
+You can also find my papers (with full texts!) on my <u><a href="{{ author.googlescholar }}" > Google Scholar</a></u> 
 or <u><a href="{{ author.researchgate }}"> ResearchGate</a></u> profiles.
 
 Di Gangi, Mattia Antonino; Lo Bosco, Giosuè; Rizzo, Riccardo.  

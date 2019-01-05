@@ -27,11 +27,7 @@ Proceedings of the 21st Conference of the European Association of Machine Transl
 
 Ataman, Duygu; Di Gangi, Mattia Antonino; Federico, Marcello.  
 *Compositional Source Word Representations for Neural Machine Translation*  
-Proceedings of the 21st Conference of the European Association of Machine Translation (EAMT),Alicante, Spain. 2018 (To appear)
-
-Di Gangi, Mattia Antonino; Lo Bosco, Giosuè; and Rizzo, Riccardo  
-*Deep Learning Architectures for prediction of nucleosome positioning from sequences data.*  
-BMC-Bioinformatics (To appear)
+Proceedings of the 21st Conference of the European Association of Machine Translation (EAMT),Alicante, Spain. 2018 (To appear)  
 
 Di Gangi, Mattia Antonino; Federico, Marcello.  
 *Monolingual Embeddings for Low Resourced Neural Machine Translation*  

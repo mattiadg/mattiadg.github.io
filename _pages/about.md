@@ -10,12 +10,11 @@ redirect_from:
 
 Hi, 
 
-I'm Mattia Di Gangi, currently PhD candidate at University of Trento, Italy, and Fondazione Bruno Kessler (FBK), Trento, Italy.
-My research topic is Neural Machine Translation, but I'm interested more broadly in NLP and AI.
+I'm Mattia Di Gangi, currently PhD candidate at the Fondazione Bruno Kessler (FBK) and the University of Trento, Italy.
+My research topic is Neural Machine Translation, but I have more broad interests in NLP and deep learning.
 
-In the course of my research on NMT, I studied the effects of word embeddings computed on monolingual data, the effect of ASR noise and multilinguality.
-My current research efforts are directed to propose new deep learning architectures that can solve some problems of NMT. I hope to disclose more (with a paper!)
-very soon.
+In the course of my research on NMT, I studied the effects of word embeddings computed on monolingual data, the effect of ASR noise, multilinguality, deep learning architectures for MT and end-to-end speech translation.
+My current research efforts are directed to assess the effectiveness of end-to-end speech translation.
 
-This website is under construction. Currently it contains my contacts, my resumé, a list of my publications and a map of the places where I gave a talk.
-I'm going to expand it soon with some pdf files of my papers and hopefully some useful blog posts about NMT.
+This website is under construction. Currently it contains my contacts, my resumé, a list of my publications and my contact links.
+I'm going to expand it soon with some pdf files of my papers and my blog posts.

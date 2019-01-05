@@ -13,6 +13,14 @@ author_profile: true
 You can also find my articles (with full texts!) on my <u><a href="{{ author.googlescholar }}" > Google Scholar</a></u> 
 or <u><a href="{{ author.researchgate }}"> ResearchGate</a></u> profiles.
 
+Di Gangi, Mattia Antonino; Lo Bosco, Giosuè; Rizzo, Riccardo.
+*Deep learning architectures for prediction of nucleosome positioning from sequences data*
+BMC Bioinformatics 19 (14), 418
+
+Di Gangi, Mattia Antonino; Dessì, Roberto; Cattoni, Roldano; Negri, Matteo; Turchi, Marco.
+*Fine-tuning on Clean Data for End-to-End Speech Translation: FBK@ IWSLT 2018*
+Proceedings of the International Workshop on Spoken Language Translation (IWSLT), Bruges, Belgium, 2018.
+
 Di Gangi, Mattia Antonino; Federico, Marcello.  
 *Deep Neural Machine Translation with Weakly-Recurrent Units*  
 Proceedings of the 21st Conference of the European Association of Machine Translation (EAMT),Alicante, Spain. 2018 (To appear)  

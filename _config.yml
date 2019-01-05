@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Mattia Di Gangi"
   avatar           : "myphoto1.jpg"
-  bio              : "PhD student working on Neural Machine Translation. I like technology, AI in particular, and self-development."
+  bio              : "PhD candidate working on Neural Machine Translation. I like technology, deep learning, NLP and getting things done."
   location         : 
   employer         :
   googlescholar    : "https://scholar.google.it/citations?hl=en&user=JAdTPzgAAAAJ&authuser=1"
@@ -93,11 +93,12 @@ author:
   facebook         :
   foursquare       :
   github           : "mattiadg"
-  google_plus      :
+  google_plus      : "https://medium.com/@mattiadigangi"
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
+  medium           : 
   orcid            : "https://orcid.org/0000-0003-4491-0025"
   pinterest        :
   soundcloud       :
